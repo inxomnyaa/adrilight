@@ -20,6 +20,8 @@ This solution only analyzes image data from your windows screen. It cannot be us
 
 It cannot be used for normal television channels unless you are watching them through your PC. For example via Kodi and TVHeadend.
 
+DRM protected content like Netflix currently does not work either.
+
 ## Performance
 
 On a typical PC, it will not use more than 10% CPU power in normal operations.
